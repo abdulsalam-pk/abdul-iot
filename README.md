@@ -13,6 +13,6 @@ You can click the Preview link to take a look at your changes.
 #include <stdio.h>
 
 int main(void){
-  printf("welcome to interns iot");
+  printf("welcome vdotok iot team");
 }
 ```
